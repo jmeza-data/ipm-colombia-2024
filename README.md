@@ -116,6 +116,19 @@ Este proyecto está bajo la Licencia MIT.
 
 - DANE (2024). *Encuesta Nacional de Calidad de Vida (ECV) 2024*
 - DANE (2018). *Metodología Índice de Pobreza Multidimensional*
+- ## 📊 Visualizaciones
+
+### Distribución del IPM
+![Distribución IPM](01_distribucion_ipm.png)
+
+### Departamentos con Mayor Pobreza
+![Top 15 Mayor Pobreza](02_top15_mayor_pobreza.png)
+
+### Distribución Pobres vs No Pobres
+![Distribución](04_distribucion_pobreza.png)
+
+### Frecuencia de Privaciones
+![Privaciones](05_frecuencia_privaciones.png)
 
 ---
 
